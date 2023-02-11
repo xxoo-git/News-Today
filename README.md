@@ -2,5 +2,5 @@
 
 
 #Project start command
- npm run dev
- npm run mock
+# npm run dev
+# npm run mock
