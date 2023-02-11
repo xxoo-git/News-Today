@@ -1,6 +1,6 @@
 # News-Today
 
 
-#Project start command
+# Project start command
 npm run dev
 npm run mock
